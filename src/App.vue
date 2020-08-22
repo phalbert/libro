@@ -27,10 +27,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-html {
-  margin: 0;
-}
-
 body{
   margin: 0px;
 }
