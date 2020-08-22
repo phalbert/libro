@@ -1,4 +1,4 @@
-import { ref, defineComponent } from 'vue';
+import { defineComponent } from 'vue';
 import useCounter from '../hooks/useCounter';
 
 const Counter = defineComponent({
